@@ -1,0 +1,40 @@
+h1 {
+  color: red;
+}
+h3 {
+  background-color: red;
+}
+h1, h3 {
+
+}
+li.fish{
+  color: orange;
+  background-color: lightYellow;
+}
+li.bird {
+  color: blue;
+  background-color: lightGray;
+}
+ul,li.mammal {
+  color: red;
+  background-color: lavenderBlush;
+  font: bold;
+  font-family: impact;
+}
+li.big{
+  font-family: Verdana;
+}
+#ham{
+  color: green;
+}
+
+div {
+  height: 600px;
+  width: 600px;
+  background-color: yellow;
+  margin-left: 100px;
+}
+
+canvas {
+  margin: 100px;
+}
